@@ -1,7 +1,7 @@
 ---
 layout: post
 author: amir
-date: 10-15-2011 8:29:24
+date: 2011-15-10 8:29:24
 title: Surga itu.. Manis', ' 
 ---
 
