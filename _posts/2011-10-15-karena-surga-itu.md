@@ -241,7 +241,7 @@ Dan jika.. masih saja ada pertanyaan yang mencoba mengusik ketenanganmu:
 
 Katakan saja: “Karena surga itu... manis.”
 
- sumber : copy paste dari [catatan Baru Pemula](www.facebook.com/note.php?note_id=261182437253076)
+ sumber : copy paste dari [catatan Baru Pemula](https://www.facebook.com/note.php?note_id=261182437253076)
 
 ', '
 
