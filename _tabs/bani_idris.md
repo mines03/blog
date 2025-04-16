@@ -10,7 +10,7 @@ order: 5
 var frame = document.getElementById("Iframe");
 frame.onload = function() {
 // add extra 50 pixels - in reality need just a bit more 
-frame.style.height = (50+frame.contentWindow.document.body.scrollHeight) + 'px';
+frame.style.height = (150+frame.contentWindow.document.body.scrollHeight) + 'px';
 // not sure if this is really required. 
 // set the width of the iframe as the width of the iframe content
 frame.style.width = frame.contentWindow.document.body.scrollWidth+'px';  
