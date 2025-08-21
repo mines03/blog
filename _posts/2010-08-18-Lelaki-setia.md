@@ -115,4 +115,4 @@ Waktu telah membuktikan segalanya. Cinta luar biasa dari laki-laki biasa yang ta
 Seperti yg diceritakan oleh seorang sahabat..
 
 
-sumber:<a href="http://www.google.co.id">google.co.id</a>
+sumber:<a href="https://www.google.co.id">google.co.id</a>
