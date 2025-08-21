@@ -5,11 +5,17 @@ title: ashabul uhkdud
 ---
 
 قُتِلَ اَصْحٰبُ الْاُخْدُوْدِۙ ۝٤
+
 النَّارِ ذَاتِ الْوَقُوْدِۙ ۝٥
+
 اِذْ هُمْ عَلَيْهَا قُعُوْدٌۙ ۝٦
+
 وَّهُمْ عَلٰى مَا يَفْعَلُوْنَ بِالْمُؤْمِنِيْنَ شُهُوْدٌۗ ۝٧
+
 وَمَا نَقَمُوْا مِنْهُمْ اِلَّآ اَنْ يُّؤْمِنُوْا بِاللّٰهِ الْعَزِيْزِ الْحَمِيْدِۙ ۝٨
+
 الَّذِيْ لَهٗ مُلْكُ السَّمٰوٰتِ وَالْاَرْضِۗ وَاللّٰهُ عَلٰى كُلِّ شَيْءٍ شَهِيْدٌۗ ۝٩
+
 binasalah orang-orang yang membuat parit (tempat menyiksa orang mukmin)
 (yang dikobarkan) api penuh kayu bakar.
 Ketika (itu) mereka (hanya) duduk di sekitarnya.
