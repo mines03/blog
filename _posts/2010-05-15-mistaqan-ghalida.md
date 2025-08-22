@@ -17,5 +17,5 @@ Dalam Al Qur&#39;an kata mitsaqan ghaliza hanya dipakai dalam 3 hal saja:<br>
 [qs:4:154]<br><br>
 3. Allah SWT menyatakan hubungan pernikahan<br>
 وَكَيْفَ تَأْخُذُوْنَهٗ وَقَدْ اَفْضٰى بَعْضُكُمْ اِلٰى بَعْضٍ وَّاَخَذْنَ مِنْكُمْ مِّيْثَاقًا غَلِيْظًا <br>
-Bagaimana kamu akan mengambilnya (kembali), padahal kamu telah menggauli satu sama lain (sebagai suami istri) dan mereka pun (istri-istrimu) telah membuat perjanjian yang kuat (ikatan pernikahan) denganmu?<br>
+<p style="text-align:justify;">Bagaimana kamu akan mengambilnya (kembali), padahal kamu telah menggauli satu sama lain (sebagai suami istri) dan mereka pun (istri-istrimu) telah membuat perjanjian yang kuat (ikatan pernikahan) denganmu?</p><br>
 [qs:4:21]<br>
