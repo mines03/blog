@@ -49,4 +49,4 @@ keingat soalnya tetangga sebelah rumah pagi ini meninggal dunia.<br><br>
 <br>
 Artinya: "Ya Allah ampunilah dia, berilah rahmat dan sejahtera dan maafkanlah dia."<br>
 
-<iframe width="420" height="315" src="https://m.youtube.com/embed/k4tXNKIsA1I" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/k4tXNKIsA1I" frameborder="0" allowfullscreen></iframe>
