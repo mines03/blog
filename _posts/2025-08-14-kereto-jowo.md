@@ -5,7 +5,7 @@ title: kereto jowo
 ---
 
 <center>pujian lawas</center>
-<center>kereto jowo</center>
+<center>kereto jowo</center><br>
 ***
 La ilaha illallah, al-Malikul-Haqqul-Mubin<br>
 Muhammadur Rasulullah, shadiqul-wa’dil-amin<br>
@@ -23,7 +23,7 @@ dhawuhe kang moho mulyo<br>
 sakwuse didhawuhi<br>
 banjur tandang karo kondo<br>
 aku iki mung sak dermo<br>
-kowe ora keno sumoyo<br>
+kowe ora keno suloyo<br>
 <br>
 sandangane diganti putih<br>
 iku tandane raiso mulih<br>
