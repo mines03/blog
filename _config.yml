@@ -200,7 +200,7 @@ defaults:
     ####tambahan amir##########
   - scope:
       path: ""
-      type: "books"
+      type: books
     values:
       layout: book
 #############sampai sini#############
