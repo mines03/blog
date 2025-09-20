@@ -3,6 +3,7 @@ title: "Sapiens: A Brief History of Humankind"
 author: "Yuval Noah Harari"
 layout: book
 slug: sapiens
+rating: 4
 date: 2025-09-20
 categories: ["books"]
 tags: ["history", "anthropology", "non-fiction"]
