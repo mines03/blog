@@ -9,13 +9,16 @@ permalink: /books/
 <div class="bookshelf-grid">
   {% for book in site.books %}
   <div class="book-card">
-    <a href="{{ book.url | relative_url }}">
       {% if book.img %}
       <img src="{{ book.img | relative_url }}" alt="{{ book.title }} cover" class="book-cover"/>
       {% endif %}
+    <a href="{{ book.url | relative_url }}">
       <h3 class="book-title">{{ book.title }}</h3>
-    </a>
     <p class="book-author">{{ book.author }}</p>
+    </a>
+      {% if book.rating %}
+    <p class="book-author">{{ book.rating }}</p>
+      {% endif %}
   </div>
   {% endfor %}
 </div>
