@@ -173,7 +173,7 @@ collections:
   ########################tambahane################
   books:
     output: true
-    permalink: /books/:title/
+  #  permalink: /books/:title/
   #  permalink: /books/:path/
   ########################tekan kene wae###########
 
