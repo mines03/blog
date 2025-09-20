@@ -1,4 +1,5 @@
 ---
+layout: book
 title: "The Hobbit"
 author: "J.R.R. Tolkien"
 rating: 5
