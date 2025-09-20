@@ -197,7 +197,13 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-
+    ####tambahan amir##########
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      layout: book
+#############sampai sini#############
 sass:
   style: compressed
 
