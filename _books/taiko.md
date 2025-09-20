@@ -1,10 +1,10 @@
 ---
 title: Taiko
-author: "Christopher Paolini"
+author: "Eiji Yoshikawa"
 layout: book
 img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327364153i/10082817.jpg
 slug: taiko
-date: 2025-09-20
+date: 1998-01-01
 categories: [books]
 tags: [fantasy]
 output: true
