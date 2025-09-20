@@ -1,13 +1,22 @@
 ---
 layout: default
-title: my Books
 ---
 
-<h1>koleksi buku</h1>
-<ul>
-{% for book in site.books %}
-  <li>
-   <a href="{{ book.url | relative_url }}">{{ book.title }}</a> </br>oleh {{ book.author }}
-  </li>
-{% endfor %}
-</ul>
+{% include lang.html %}
+{% include toc-status.html %}
+
+<article class="page-content" data-toc="{{ page.enable_toc }}">
+  <header>
+    <h1>{{ page.title }}</h1>
+    {% if page.author %}
+      <p class="author">by {{ page.author }}</p>
+    {% endif %}
+    {% if page.date %}
+      <p class="date">Published: {{ page.date | date: "%B %d, %Y" }}</p>
+    {% endif %}
+  </header>
+
+  <section class="book-description">
+    {{ content }}
+  </section>
+</article>
