@@ -2,6 +2,7 @@
 title: "Eragon"
 author: "Christopher Paolini"
 layout: book
+img: https://upload.wikimedia.org/wikipedia/en/c/ce/Eragon_book_cover.png
 slug: eragon
 date: 2025-09-20
 categories: [books]
