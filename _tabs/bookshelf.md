@@ -1,9 +1,5 @@
 ---
-title: Bookshelf
+layout: bookshelf
+icon: fas fa-info-circle
 order: 7
-layout: page
-permalink: /bookshelf/
 ---
-
-<!-- Optional content or leave empty if listing is dynamic -->
-
