@@ -3,7 +3,7 @@ title: Taiko
 author: "Christopher Paolini"
 layout: book
 img: https://upload.wikimedia.org/wikipedia/en/c/ce/Eragon_book_cover.png
-slug: eragon
+slug: taiko
 date: 2025-09-20
 categories: [books]
 tags: [fantasy]
