@@ -1,12 +1,7 @@
 ---
-layout: book
-title: "The Hobbit"
-author: "J.R.R. Tolkien"
-rating: 5
-status: read
-date_read: 2023-07-15
-genre: fantasy
-tags: [adventure, classic]
+layout: books
+date: 2010-04-20
+title: the hobbit
 ---
 
 Bilbo Baggins is swept into a quest to reclaim a dwarven treasure from the dragon Smaug. A timeless classic full of riddles, courage, and unexpected heroism.
