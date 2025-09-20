@@ -1,10 +1,13 @@
 ---
 layout: default
+title: Books
 ---
-<article>
-  <h1>{{ page.title }}</h1>
-  <p><em>by {{ page.author }}</em></p>
-  <p>⭐️ {{ page.rating }}/5 — Read on {{ page.date_read }}</p>
-  <hr>
-  {{ content }}
-</article>
+
+<h1>Books</h1>
+<ul>
+{% for book in site.books %}
+  <li>
+    <a href="{{ book.url }}">{{ book.title }}</a> by {{ book.author }}
+  </li>
+{% endfor %}
+</ul>
