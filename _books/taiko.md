@@ -1,10 +1,12 @@
 ---
 title: Taiko
-author: "Eiji Yoshikawa"
+author: "Christopher Paolini"
 layout: book
-img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402402564i/6509552.jpg
-slug: taiko
-date: 2025-09-21
+img: https://upload.wikimedia.org/wikipedia/en/c/ce/Eragon_book_cover.png
+slug: eragon
+date: 2025-09-20
+categories: [books]
+tags: [fantasy]
 output: true
 ---
 
