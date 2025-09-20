@@ -12,7 +12,6 @@ order: 7
     {% if book.img %}
       <img src="{{ book.img | relative_url }}" alt="{{ book.title }}">
     {% endif %}
-    <p>{{ book.excerpt | strip_html | truncatewords: 30 }}</p>
   </div>
   {% endfor %}
 </div>
