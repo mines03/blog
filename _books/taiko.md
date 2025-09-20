@@ -11,5 +11,5 @@ output: true
 img: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402402564i/6509552.jpg
 ---
 
-Taiko is a historical novel that tells the epic story of Toyotomi Hideyoshi, a man who rose from peasant origins to become one of Japan’s greatest unifiers during the Sengoku period.
+Taiko is a historical novel that tells the epic story of Toyotomi Hideyoshi, a man who rose from peasant origins to become one of Japan’s greatest unifiers during the Sengoku period. 
 
