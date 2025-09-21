@@ -6,7 +6,7 @@ img: https://upload.wikimedia.org/wikipedia/id/b/b4/Ayatayatcinta.jpg
 slug: ayat-ayat-cinta
 date: 2004-09-21
 categories: [books]
-tags: [romance]
+tags: [fantasy]
 output: true
 ---
 
