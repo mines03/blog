@@ -1,5 +1,5 @@
 ---
-title: "negeri 5 menara"
+title: negeri 5 menara
 author: "A. Fuadi"
 layout: book
 img: https://upload.wikimedia.org/wikipedia/en/c/ce/Eragon_book_cover.png
