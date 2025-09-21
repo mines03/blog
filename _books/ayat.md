@@ -2,7 +2,7 @@
 title: "Ayat-Ayat Cinta"
 author: "Habiburrahman El Shirazy"
 layout: book
-img: https://upload.wikimedia.org/wikipedia/en/8/86/Ayat-Ayat_Cinta_Movie_Poster.jpg
+img: https://upload.wikimedia.org/wikipedia/id/b/b4/Ayatayatcinta.jpg
 slug: ayat-ayat-cinta
 date: 2004-09-21
 categories: [books]
