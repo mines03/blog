@@ -2,6 +2,7 @@
 title: "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
 author: "Steven D. Levitt and Stephen J. Dubner"
 layout: book
+img: https://cdn.gramedia.com/uploads/items/Freakonomics_New_Edition.jpg
 slug: freakonomics
 date: 2025-09-20
 categories: ["books"]
