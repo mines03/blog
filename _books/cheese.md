@@ -3,7 +3,7 @@ title: "Who Moved My Cheese?"
 author: "Spencer Johnson"
 layout: book
 img: https://ebooks.gramedia.com/ebook-covers/15101/big_covers/ID_EMK2014MTH07WMMCU_B.jpg
-slug: eragon
+slug: cheese
 date: 1998-09-20
 categories: [books]
 tags: [fantasy]
