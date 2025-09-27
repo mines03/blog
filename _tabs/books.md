@@ -10,7 +10,9 @@ permalink: /books/
   {% for book in site.books %}
   <div class="book-card">
       {% if book.img %}
+      <a href="#" onclick="alert('URL Buku: {{ book.url | relative_url }}'); return false;">
       <img src="{{ book.img | relative_url }}" alt="{{ book.title }} cover" class="book-cover"/>
+      </a>
       {% endif %}
     <a href="{{ book.url | relative_url }}">
       <h3 class="book-title">{{ book.title }}</h3>
